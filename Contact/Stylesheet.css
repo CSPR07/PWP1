@@ -1,8 +1,79 @@
+* {
+    box-sizing: border-box;
+}
+
 body {
     background-color: white;
     font-family: 'Montserrat', sans-serif;
 }
 
-section#Gegevens {
+section#Contact {
+    float: left;
+    width: 60%;
+}
+
+section#Tekst {
     float: right;
+    width: 30%;
+}
+
+section#Gegevens {
+    float: bottom;
+    width: 10%;
+
+}
+
+ul.a {
+   padding: 0px;
+    margin: 0px;
+}
+
+li.a {
+    background-color: rgb(128,128,128);
+    border-top:1px solid white;
+    padding: 10px;
+    padding-left: 20px;
+}
+
+li.a a {
+    color: white;
+    text-decoration: none;
+    font-weight: 500;
+
+}
+
+@media all and (min-width:550px){
+    ul.a {
+        background-color: rgb(128,128,128);
+        border-top:1px solid white;
+    }
+    li.a {
+        display:inline-block;
+        border:none;
+    }
+}
+
+
+ul.b {
+    list-style-type: none;
+    padding: 0;
+}
+ul.b li.b {
+    padding: 10px;
+}
+ul.b li.b input {
+    position: absolute;
+    left: 150px;
+}
+
+
+
+footer {
+    background-color: rgb(128,128,128);
+    color: white;
+    clear: both;
+}
+
+footer h3{
+    color: white;
 }
