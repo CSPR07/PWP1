@@ -1,26 +1,18 @@
 *{
     box-sizing: border-box;
 }
-
 body{
     margin: 0;
     padding: 0;
     font-family: 'Raleway', sans-serif;
 }
 header{
-    text-align: center;
+    text-align: left;
     background-color: rgb(193, 240, 223);
 }
 
 div#wrapper{
     background-color: rgb(250, 241, 234);
-}
-
-img#logo{
-    width: 320px;
-}
-img{
-    width: 100%;
 }
 
 li {
@@ -33,6 +25,7 @@ li {
 ul{
     padding: 0px;
     margin: 0px;
+    padding-top: 50px;
 }
 @media all and (min-width: 550px){
     ul{
@@ -50,37 +43,24 @@ li a{
 }
 h3{
     color: rgb(220, 106, 94);
+    text-align: left;
+    margin: 10px;
 }
 section footer{
     padding: 20px;
 }
-@media all and (min-width: 550px){
-    section#nieuws{
-        width: 40%;
-        float: left;
-    }
-    section#News{
-        width: 60%;
-        float: right;
-    }
-}
-
 @media all and (min-width: 920px){
-    section#nieuws{
-        width: 30%;
-        float: left;
-    }
-    section#News{
-        width: 70%;
-        float: right;
-    }
-    article{
-        display: inline-block;
-        width: 48%;
-        margin-right: 20px;
-    }
-    article:nth-child(even){
+    .article:nth-child(even){
         margin-right: 0;
+    }
+    .articles {
+        display: inline-block;
+        width: 30%;
+        vertical-align: top;
+        padding-right: 50px;
+    }
+    .arcticle:last-child{
+        padding-right: 0px;
     }
 }
 
