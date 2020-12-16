@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(250,241,234);
+    font-family: 'Montserrat', sans-serif;
+
+
+
+
+
+
+footer {
+    background-color: rgb(128,128,128);
+    color: white;
+    clear: both;
+}
+
+footer h3{
+    color: white;
+}

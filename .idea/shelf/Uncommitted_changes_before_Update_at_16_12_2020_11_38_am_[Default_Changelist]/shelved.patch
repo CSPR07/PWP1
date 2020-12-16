@@ -1,0 +1,118 @@
+Index: Homescreen/index.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><!DOCTYPE html>\r\n<html lang=\"en\">\r\n<head>\r\n    <meta charset=\"UTF-8\">\r\n    <title>Homescreen</title>\r\n    <link rel=\"stylesheet\" href=\"Style.css\">\r\n    <link href=\"https://fonts.googleapis.com/css2?family=Raleway:wght@200;400&display=swap\" rel=\"stylesheet\">\r\n</head>\r\n<body>\r\n<div id=\"wrapper\">\r\n    <header>\r\n\r\n    </header>\r\n    <nav>\r\n        <ul>\r\n            <li><a href=\"#News\">News Almere</a></li>\r\n            <li><a href=\"/PWP1/Contact/contact.html\">Contact</a></li>\r\n        </ul>\r\n    </nav>\r\n\r\n    <h3>Gehekdicapte reiger</h3>\r\n    <h3>Voordeur opengeblazen</h3>\r\n    <h3>Almere bereid campagne te voeren voor werving burgerhulpverleners</h3>\r\n    <section class=\"articles\">\r\n        <article class=\"articles\">\r\n            <img src=\"foto1.png\" alt=\"\">\r\n            De reiger die in Almere-Haven en omstreken rondvloog met een hekwerk rond zijn snavel, is door medewerkers van de dierenambulance gered. De ongeluksvogel maakt het goed.\r\n            Het dier vloog ruim een week met het hekwerk rond in de Flevose stad, maar ondanks dat de vogel daardoor verzwakt was geraakt, wist hij toch elke keer weg te vliegen en zo uit handen van de dierenambulance te blijven. Die had mensen eerder opgeroepen vooral te bellen als ze de reiger zagen rondvliegen. Aan die oproep werd massaal gehoor gegeven. Zondag was het eindelijk raak en wisten ze de vogel te vangen, laat de dierenambulance weten op Facebook. Een makkelijke klus was het niet. “De reiger is van twee kanten benaderd en we hebben hem uiteindelijk met een net kunnen vangen!”\r\n            Het hekwerk is losgeknipt en gelukkig lijkt de schade aan de ‘gehekdicapte’ vogel mee te vallen. De reiger mag nu aansterken in het Vogelhospitaal in Naarden.\r\n        </article>\r\n\r\n        <article class=\"articles\">\r\n            De voordeur van een woning aan de Wipmolenweg in de Almeerse Molenbuurt is in de nacht van zaterdag op zondag opgeblazen met zwaar vuurwerk.\r\n            Buurtbewoners werden rond 05:30 uur opgeschrikt door twee zware knallen.\r\n            <img src=\"foto2.jpg\" alt=\"\">\r\n            Op een foto die wijkagent Knol op Twitter heeft gezet, is een gapend gat te zien in de onderkant van de deur. Het lijkt erop dat het vuurwerk via de brievenbus naar binnen is geduwd. De bewoners wilden geen reactie geven aan Omroep Flevoland\r\n            De politie hoopt dat er getuigen zijn die de dader of daders hebben gezien. Ook zijn beelden van bewakingscamera's welkom.\r\n        </article>\r\n\r\n        <article class=\"articles\">\r\n            De gemeente Almere is bereid een grote campagne op te zetten met de Hartstichting om meer mensen op te leiden tot burgerhulpverlener. Dat zei wethouder Roelie Bosch donderdagavond tijdens de politieke markt. Aanleiding voor de uitspraak was een motie van de VVD en ChristenUnie om meer inzichtelijk te krijgen waar AED's in de stad hangen om mensen met een hartstilstand te redden.\r\n            Uit een recente rondgang van de Hartstichting en Omroep Flevoland door het centrum van Almere Stad bleek geen enkele AED buiten te vinden. Uit cijfers van de Hartstichting komt naar voren dat er op 42 plekken in Almere zo'n Automatische Externe Defibrillator mist voor een dekkend netwerk. In de motie riepen de partijen de gemeente op een inventarisatie te maken van de aanwezigheid van AED's die niet zijn aangemeld bij de organisatie HartslagNu en die lijst openbaar te maken. De gedachte daarachter is dat dan iedereen een AED kan halen als dat nodig is. Het blijkt dat bedrijven en sommige particulieren een AED hebben, maar dat deze bij hulpverleners niet bekend zijn.\r\n            <img src=\"\" alt=\"\">\r\n            Wethouder Roelie Bosch vindt het een sympathieke motie, maar wil 'm niet uitvoeren. Volgens haar is een dergelijke actie niet de taak van de gemeente. Bovendien vindt ze die niet eens wenselijk. Als mensen precies weten waar die apparaten hangen, bestaat de kans dat ze worden gestolen.\r\n        </article>\r\n\r\n    </section>\r\n    <footer>\r\n     <h3>Sitelinks</h3>\r\n\r\n    </footer>\r\n</div>\r\n</body>\r\n</html>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Homescreen/index.html b/Homescreen/index.html
+--- a/Homescreen/index.html	(revision a0e6b673f98745ef02b3ac97c93e65015a0ee34c)
++++ b/Homescreen/index.html	(date 1608029260230)
+@@ -24,17 +24,17 @@
+     <section class="articles">
+         <article class="articles">
+             <img src="foto1.png" alt="">
+-            De reiger die in Almere-Haven en omstreken rondvloog met een hekwerk rond zijn snavel, is door medewerkers van de dierenambulance gered. De ongeluksvogel maakt het goed.
+-            Het dier vloog ruim een week met het hekwerk rond in de Flevose stad, maar ondanks dat de vogel daardoor verzwakt was geraakt, wist hij toch elke keer weg te vliegen en zo uit handen van de dierenambulance te blijven. Die had mensen eerder opgeroepen vooral te bellen als ze de reiger zagen rondvliegen. Aan die oproep werd massaal gehoor gegeven. Zondag was het eindelijk raak en wisten ze de vogel te vangen, laat de dierenambulance weten op Facebook. Een makkelijke klus was het niet. “De reiger is van twee kanten benaderd en we hebben hem uiteindelijk met een net kunnen vangen!”
+-            Het hekwerk is losgeknipt en gelukkig lijkt de schade aan de ‘gehekdicapte’ vogel mee te vallen. De reiger mag nu aansterken in het Vogelhospitaal in Naarden.
++            <p> De reiger die in Almere-Haven en omstreken rondvloog met een hekwerk rond zijn snavel, is door medewerkers van de dierenambulance gered. De ongeluksvogel maakt het goed.</p>
++            <p> Het dier vloog ruim een week met het hekwerk rond in de Flevose stad, maar ondanks dat de vogel daardoor verzwakt was geraakt, wist hij toch elke keer weg te vliegen en zo uit handen van de dierenambulance te blijven. Die had mensen eerder opgeroepen vooral te bellen als ze de reiger zagen rondvliegen. Aan die oproep werd massaal gehoor gegeven. Zondag was het eindelijk raak en wisten ze de vogel te vangen, laat de dierenambulance weten op Facebook. Een makkelijke klus was het niet. “De reiger is van twee kanten benaderd en we hebben hem uiteindelijk met een net kunnen vangen!” </p>
++            <p> Het hekwerk is losgeknipt en gelukkig lijkt de schade aan de ‘gehekdicapte’ vogel mee te vallen. De reiger mag nu aansterken in het Vogelhospitaal in Naarden. </p>
+         </article>
+ 
+         <article class="articles">
+-            De voordeur van een woning aan de Wipmolenweg in de Almeerse Molenbuurt is in de nacht van zaterdag op zondag opgeblazen met zwaar vuurwerk.
+-            Buurtbewoners werden rond 05:30 uur opgeschrikt door twee zware knallen.
++          <p> De voordeur van een woning aan de Wipmolenweg in de Almeerse Molenbuurt is in de nacht van zaterdag op zondag opgeblazen met zwaar vuurwerk.
++           <p> Buurtbewoners werden rond 05:30 uur opgeschrikt door twee zware knallen.</p>
+             <img src="foto2.jpg" alt="">
+-            Op een foto die wijkagent Knol op Twitter heeft gezet, is een gapend gat te zien in de onderkant van de deur. Het lijkt erop dat het vuurwerk via de brievenbus naar binnen is geduwd. De bewoners wilden geen reactie geven aan Omroep Flevoland
+-            De politie hoopt dat er getuigen zijn die de dader of daders hebben gezien. Ook zijn beelden van bewakingscamera's welkom.
++            <p> Op een foto die wijkagent Knol op Twitter heeft gezet, is een gapend gat te zien in de onderkant van de deur. Het lijkt erop dat het vuurwerk via de brievenbus naar binnen is geduwd. De bewoners wilden geen reactie geven aan Omroep Flevoland </p>
++            <p> De politie hoopt dat er getuigen zijn die de dader of daders hebben gezien. Ook zijn beelden van bewakingscamera's welkom. </p>
+         </article>
+ 
+         <article class="articles">
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"8001b487-2acb-45c6-ba62-b57cd32fa940\" name=\"Default Changelist\" comment=\"\">\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/PWP1.iml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/modules.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/vcs.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/Contact/Stylesheet.css\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/Contact/contact.html\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"ComposerSettings\">\r\n    <execution />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"HTML File\" />\r\n        <option value=\"CSS File\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"1le3pibWitebBc0kOLGNvMKqrDs\" />\r\n  <component name=\"ProjectLevelVcsManager\">\r\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">\r\n    <property name=\"ASKED_ADD_EXTERNAL_FILES\" value=\"true\" />\r\n    <property name=\"DefaultHtmlFileTemplate\" value=\"HTML File\" />\r\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\r\n    <property name=\"RunOnceActivity.ShowReadmeOnStart\" value=\"true\" />\r\n    <property name=\"WebServerToolWindowFactoryState\" value=\"false\" />\r\n    <property name=\"last_opened_file_path\" value=\"$PROJECT_DIR$\" />\r\n    <property name=\"list.type.of.created.stylesheet\" value=\"CSS\" />\r\n    <property name=\"node.js.detected.package.eslint\" value=\"true\" />\r\n    <property name=\"node.js.detected.package.tslint\" value=\"true\" />\r\n    <property name=\"node.js.path.for.package.eslint\" value=\"project\" />\r\n    <property name=\"node.js.path.for.package.tslint\" value=\"project\" />\r\n    <property name=\"node.js.selected.package.eslint\" value=\"(autodetect)\" />\r\n    <property name=\"node.js.selected.package.tslint\" value=\"(autodetect)\" />\r\n    <property name=\"vue.rearranger.settings.migration\" value=\"true\" />\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"8001b487-2acb-45c6-ba62-b57cd32fa940\" name=\"Default Changelist\" comment=\"\" />\r\n      <created>1607943913487</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1607943913487</updated>\r\n      <workItem from=\"1607943914611\" duration=\"3503000\" />\r\n    </task>\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <option name=\"ADD_EXTERNAL_FILES_SILENTLY\" value=\"true\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision a0e6b673f98745ef02b3ac97c93e65015a0ee34c)
++++ b/.idea/workspace.xml	(date 1608031490820)
+@@ -2,11 +2,10 @@
+ <project version="4">
+   <component name="ChangeListManager">
+     <list default="true" id="8001b487-2acb-45c6-ba62-b57cd32fa940" name="Default Changelist" comment="">
+-      <change afterPath="$PROJECT_DIR$/.idea/PWP1.iml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Contact/Stylesheet.css" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Contact/contact.html" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Overons/Stylesheet.css" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Overons/overons.html" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/Homescreen/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Homescreen/index.html" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -49,6 +48,7 @@
+     <property name="node.js.path.for.package.tslint" value="project" />
+     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+     <property name="node.js.selected.package.tslint" value="(autodetect)" />
++    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+     <property name="vue.rearranger.settings.migration" value="true" />
+   </component>
+   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+@@ -60,6 +60,8 @@
+       <option name="presentableId" value="Default" />
+       <updated>1607943913487</updated>
+       <workItem from="1607943914611" duration="3503000" />
++      <workItem from="1607954531043" duration="832000" />
++      <workItem from="1608020708967" duration="9729000" />
+     </task>
+     <servers />
+   </component>
+@@ -76,6 +78,7 @@
+         </entry>
+       </map>
+     </option>
++    <option name="oldMeFiltersMigrated" value="true" />
+   </component>
+   <component name="VcsManagerConfiguration">
+     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+Index: Overons/overons.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Overons/overons.html b/Overons/overons.html
+new file mode 100644
+--- /dev/null	(date 1608029603055)
++++ b/Overons/overons.html	(date 1608029603055)
+@@ -0,0 +1,19 @@
++<!DOCTYPE html>
++<html lang="en">
++<head>
++    <meta charset="UTF-8">
++    <title>Over ons</title>
++</head>
++<body>
++
++
++<section class="articles">
++        <img src="foto1.png" alt="">
++        <article>De reiger die in Almere-Haven en omstreken rondvloog met een hekwerk rond zijn snavel, is door medewerkers van de dierenambulance gered. De ongeluksvogel maakt het goed.</article>
++        <article>Het dier vloog ruim een week met het hekwerk rond in de Flevose stad, maar ondanks dat de vogel daardoor verzwakt was geraakt, wist hij toch elke keer weg te vliegen en zo uit handen van de dierenambulance te blijven. Die had mensen eerder opgeroepen vooral te bellen als ze de reiger zagen rondvliegen. Aan die oproep werd massaal gehoor gegeven. Zondag was het eindelijk raak en wisten ze de vogel te vangen, laat de dierenambulance weten op Facebook. Een makkelijke klus was het niet. “De reiger is van twee kanten benaderd en we hebben hem uiteindelijk met een net kunnen vangen!”</article>
++        <p> Het hekwerk is losgeknipt en gelukkig lijkt de schade aan de ‘gehekdicapte’ vogel mee te vallen. De reiger mag nu aansterken in het Vogelhospitaal in Naarden.
++</section>
++
++
++</body>
++</html>
+\ No newline at end of file
+diff --git a/Overons/Stylesheet.css b/Overons/Stylesheet.css
+new file mode 100644

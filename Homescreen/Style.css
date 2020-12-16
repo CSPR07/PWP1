@@ -1,14 +1,5 @@
-*{
-    box-sizing: border-box;
-}
-body{
-    margin: 0;
-    padding: 0;
-    font-family: 'Raleway', sans-serif;
-}
-header{
-    text-align: left;
-    background-color: rgb(193, 240, 223);
+text-align: left;
+background-color: rgb(193, 240, 223);
 }
 
 div#wrapper{
@@ -74,17 +65,3 @@ section footer{
 }
 
 @media all and (min-width: 1200px) {
-    div#wrapper{
-        width: 1200px;
-        margin: auto;
-    }
-}
-
-footer{
-    background-color: rgb(128, 128, 128);
-    color: white;
-    clear: both;
-}
-footer h3{
-    color: white;
-}
