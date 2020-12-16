@@ -10,9 +10,9 @@ header{
     text-align: left;
     background-color: rgb(193, 240, 223);
 }
-/*hh*/
+
 div#wrapper{
-    background-color: rgb(250, 241, 234);
+    background-color: rgb(250, 240, 234);
 }
 
 li {
@@ -58,9 +58,18 @@ section footer{
         width: 30%;
         vertical-align: top;
         padding-right: 50px;
+        display: inline-flex;
+        margin-left: 50px;
+
     }
     .arcticle:last-child{
         padding-right: 0px;
+    }
+    .articles1{
+        margin-right: 100px;
+    }
+    .articles2{
+        margin-right: 100px;
     }
 }
 
