@@ -111,3 +111,9 @@ footer{
 footer h3{
     color: white;
 }
+
+footer a{
+    color: white;
+    text-decoration: none;
+    margin-left: 10px;
+}
