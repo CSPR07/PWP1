@@ -1,100 +1,97 @@
-* {
+*{
     box-sizing: border-box;
 }
-
-body {
-    background-color: rgb(250,241,234);
-    font-family: 'Montserrat', sans-serif;
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Raleway', sans-serif;
+}
+header{
+    text-align: left;
+    background-color: rgb(193, 240, 223);
 }
 
-section#Contact {
-    float: left;
-    width: 60%;
+div#wrapper{
+    background-color: rgb(250, 240, 234);
 }
 
-section#Tekst {
-    float: right;
-    width: 30%;
-}
-
-section#Gegevens {
-    float: bottom;
-    width: 10%;
-
-}
-
-ul.a {
-   padding: 0px;
-    margin: 0px;
-}
-
-ul.a {
-    padding: 0px;
-    margin: 0px;
+li.b{
     background-color: rgb(128,128,128);
-    border-top: 0px solid white;
-}
-
-li.a {
-    background-color: rgb(128,128,128);
-    border-top:1px solid white;
-    display: inline-block;
     padding: 10px;
     padding-left: 20px;
+    border-top: 1px solid white;
 }
 
-li.a a {
+ul b{
+    background-color: rgb(128,128,128);
+    padding: 0px;
+    margin: 0px;
+    padding-top: 50px;
+}
+@media all and (min-width: 550px){
+    ul{
+
+    }
+    li b{
+        background-color: rgb(128,128,128);
+        display: inline-block;
+        border: none;
+    }
+}
+li a{
     color: white;
     text-decoration: none;
-    font-weight: 500;
-
+    font-weight: 700;
 }
-
-
-ul.b {
-    list-style-type: none;
-    padding: 0;
+h3{
+    color: rgb(220, 106, 94);
+    text-align: left;
+    margin: 10px;
 }
-ul.b li.b {
-    padding: 10px;
+section footer{
+    padding: 20px;
 }
-ul.b li.b input {
-    position: absolute;
-    left: 150px;
-}
-
-@media all and (min-width:550px){
-    ul.a {
-        background-color: rgb(128,128,128);
-        border-top:1px solid white;
+@media all and (min-width: 920px){
+    .article:nth-child(even){
+        margin-right: 0;
     }
-    li.a {
-        display:inline-block;
-        border:none;
+    .articles {
+        width: 580px;
+        padding-right: 50px;
+        margin-left: 50px;
+        margin-top: 20px;
+    }
+    .item-container {
+        display: grid;
+        grid-template-columns: auto auto;
+        grid-gap: 10px;
+        padding: 10px;
+    }
+
+    .item-container > div {
+        text-align: left;
+        padding: 20px 0;
     }
 }
 
-
-ul.b {
-    list-style-type: none;
-    padding: 0;
-}
-ul.b li.b {
-    padding: 10px;
-}
-ul.b li.b input {
-    position: absolute;
-    left: 150px;
+@media all and (min-width: 1200px) {
+    div#wrapper{
+        width: 1200px;
+        margin: auto;
+    }
 }
 
-
-
-footer {
-    background-color: rgb(128,128,128);
+footer{
+    background-color: rgb(128, 128, 128);
     color: white;
     clear: both;
 }
-
 footer h3{
     color: white;
+}
+
+footer a{
+    color: white;
+    text-decoration: none;
+    margin-left: 10px;
 }
