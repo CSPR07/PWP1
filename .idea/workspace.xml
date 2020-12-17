@@ -2,8 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8001b487-2acb-45c6-ba62-b57cd32fa940" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_15_12_2020_11_43_am__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_15_12_2020_11_43_am__Default_Changelist_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_16_12_2020_11_38_am__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_16_12_2020_11_38_am__Default_Changelist_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Concert/Melanie Charles/Melanie Charles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Concert/Melanie Charles/Melanie Charles.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Concert/Moddi/Moddi.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Concert/Moddi/Moddi.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Concert/The Vices/Concert detail1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Concert/The Vices/StyleSheet1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Concert/Wies/Wies.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Concert/Wies/Wies.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Concert/img/275344.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Concert/img/Press-photo-1-large-e156163142572512.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Concert/img/The-Vices-In-And-Out.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Concert/img/download (1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Concert/img/download (2).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Concert/img/download (3).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Concert/img/melanie-(credit-eat-the-cake_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Concert/img/wies.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Concert/1111.png" beforeDir="false" afterPath="$PROJECT_DIR$/Concert/img/1111.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Concert/Snollebollekes-Live-in-Concert-2019-2-1300x835.png" beforeDir="false" afterPath="$PROJECT_DIR$/Concert/img/Snollebollekes-Live-in-Concert-2019-2-1300x835.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Concert/Stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/Concert/Stylesheet.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Concert/concert.html" beforeDir="false" afterPath="$PROJECT_DIR$/Concert/concert.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contact/Stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/Contact/Stylesheet.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contact/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/Contact/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homescreen/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Homescreen/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recepten/Recept.html" beforeDir="false" afterPath="$PROJECT_DIR$/Recepten/Recept.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport/sport.html" beforeDir="false" afterPath="$PROJECT_DIR$/Sport/sport.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport/tennis/tennis.html" beforeDir="false" afterPath="$PROJECT_DIR$/Sport/tennis/tennis.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport/voetbal/voetbal.html" beforeDir="false" afterPath="$PROJECT_DIR$/Sport/voetbal/voetbal.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +64,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Concert/img" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -48,6 +74,16 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\pjotr\Desktop\PWP1\Concert\img" />
+      <recent name="C:\Users\pjotr\Desktop\PWP1\Concert" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\pjotr\Desktop\PWP1\Concert\img" />
+      <recent name="C:\Users\pjotr\Desktop\PWP1\Concert\The Vices" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
