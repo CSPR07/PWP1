@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8001b487-2acb-45c6-ba62-b57cd32fa940" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Concert/Stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/Concert/Stylesheet.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Concert/concert.html" beforeDir="false" afterPath="$PROJECT_DIR$/Concert/concert.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Contact/Stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/Contact/Stylesheet.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Contact/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/Contact/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homescreen/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Homescreen/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Overons/Stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/Overons/Stylesheet.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Overons/overons.html" beforeDir="false" afterPath="$PROJECT_DIR$/Overons/overons.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sport/basketball/basketball.html" beforeDir="false" afterPath="$PROJECT_DIR$/Sport/basketball/basketball.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sport/basketball/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Sport/basketball/style.css" afterDir="false" />
-    </list>
+    <list default="true" id="8001b487-2acb-45c6-ba62-b57cd32fa940" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
